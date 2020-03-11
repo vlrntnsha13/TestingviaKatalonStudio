@@ -14,12 +14,12 @@
       <guid>a03bbb54-91db-45c1-88f6-1021634e4afa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Tes Login Dian dan Kopi</testCaseId>
+      <testCaseId>Test Cases/Minggu 5/Tes Login Dian dan Kopi</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>83a7e8f5-6a7b-4386-8db0-3aca2bee99ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Tes Login Dians dan Kopi</testCaseId>
+      <testCaseId>Test Cases/Minggu 5/Tes Login Dians dan Kopi</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
