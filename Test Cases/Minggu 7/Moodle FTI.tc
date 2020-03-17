@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case dengan Web Moodle FTI</description>
+   <name>Moodle FTI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>421dbbd1-37a6-498f-9215-6433c8e5bc7a</testCaseGuid>
+</TestCaseEntity>
