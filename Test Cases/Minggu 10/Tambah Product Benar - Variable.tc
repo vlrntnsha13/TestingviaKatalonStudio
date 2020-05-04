@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tes Case ideal untuk menyimpan produk</description>
+   <name>Tambah Product Benar - Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed40dbdc-3aab-4fd9-9a3e-d4d666087aed</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04e9c83d-7620-457b-aa40-9ef356899410</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>baa54ee1-ce31-4688-9bfc-219cf40caab7</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>971ce568-fe0c-44d6-9f19-174fa992ea30</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63edd391-b5e3-4a13-98f0-0a14577f8b38</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+</TestCaseEntity>
